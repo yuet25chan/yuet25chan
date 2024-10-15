@@ -1,7 +1,3 @@
-## Hi there, my name is Yuet Chan, an IT professional!👋
-
-<!--
-**yuet25chan/yuet25chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
